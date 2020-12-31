@@ -6,7 +6,7 @@ Python for Mathematics Notebook 1
 Please complete the following steps.
 
 1. Accept assignment from GitHub Classroom, using the [link here](https://classroom.github.com/a/m9fo5LLa).
-2. Open assignment from your repository, using Google Colab.
+2. Open assignment from your repository, using Google Colab.  Remember, your repository should have your name in it!
 3. Edit assignment on Google Colab.
 4. Save assignment back on Github in your repository.
 
